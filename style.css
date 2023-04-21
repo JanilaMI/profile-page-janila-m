@@ -1,0 +1,76 @@
+/* Write some CSS below : */
+
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    background-color: #AFA6E9;
+    background-image:url(images/tiger.jpg);
+}
+
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color: #ED3280;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+h1{
+font-size: 34px;
+font-weight: 700;
+}
+
+.card-white{
+    background-color: #f5e3f1;
+    text-align: center;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 20px 0;
+    box-shadow: 0 10px 20px rgba(125,2,32, 0.1);
+    border-color: #A06CD5;
+    border: 6px solid #8715d3;
+}
+
+#janila-picture {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.container {
+    width: 700px;
+    margin: 10px auto
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+  }
+
+.list-inline li {
+    display: inline;
+  }
+
+.list-inline i {
+    font-size: 40px;
+    letter-spacing: 30px;
+
+  }.list-inline i:hover {
+    color: #2F509F;
+  }
+
+  .btn-green {
+    background-color: #f9157c;
+     color: white;
+     border-radius: 5px;
+     padding: 20px 50px;
+     font-size: 20px;
+     font-weight: 700;
+  }
+
+/* 1. Global design first : Body, Headers, Colors, Fonts, Font size, Font weight */
+
+/* 2. Appearance of html elements : Images, Links (buttons), Divs */
